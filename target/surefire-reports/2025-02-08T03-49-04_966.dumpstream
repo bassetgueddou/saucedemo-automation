@@ -1,0 +1,12 @@
+# Created at 2025-02-08T03:49:06.747
+f�vr. 08, 2025 3:49:06 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-08T03:49:06.748
+WARNING: Configuration error: invalid tag syntax in @Tag("Login standard user") declaration on [public void com.logwire.LoginTest.Login(java.lang.String,java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-08T03:49:06.778
+f�vr. 08, 2025 3:49:06 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-08T03:49:06.779
+WARNING: Configuration error: invalid tag syntax in @Tag("Login standard user") declaration on [public void com.logwire.LoginTest.Login(java.lang.String,java.lang.String)]. Tag will be ignored.
+

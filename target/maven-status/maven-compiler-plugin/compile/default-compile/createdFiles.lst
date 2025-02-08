@@ -1,0 +1,5 @@
+com\logwire\pages\CartPage.class
+com\logwire\App.class
+com\logwire\pages\HomePage.class
+com\logwire\utils\WebDriverManager.class
+com\logwire\utils\TestUtils.class
