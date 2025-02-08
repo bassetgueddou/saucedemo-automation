@@ -9,30 +9,29 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.logwire.pages.LoginPage;
+import com.logwire.utils.WebDriverManager;
 
 public class LoginTest {
-    private WebDriver driver;
-    String password ="secret_sauce";
     LoginPage loginPage;
+    WebDriver driver;
+    WebDriverManager Webdrivermanager;
 
     @BeforeEach
     public void setup(){
-        driver = new ChromeDriver();
-        driver.get("https://www.saucedemo.com/");
+        Webdrivermanager = new WebDriverManager();
+        Webdrivermanager.setup();
+        driver = Webdrivermanager.getDriver();
         loginPage = new LoginPage(driver);
 
     }
 
     @AfterEach
     public void tearDown(){
-        if(driver!=null){
-            driver.quit();
-            driver = null;
-        }
+        Webdrivermanager.tearDown();
     }
+
 
     @ParameterizedTest
     @Tag("LoginTest")
