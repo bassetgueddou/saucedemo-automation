@@ -56,8 +56,8 @@ public class InventoryTest {
     @ParameterizedTest
     @CsvFileSource(resources = "/users.csv", numLinesToSkip= 1)
     @Tag("Test Inventory Product Display")
-    public void testProductDisplayAndAddToCart(){
-        loginPage.login("standard_user");
+    public void testProductDisplayAndAddToCart(String username){
+        loginPage.login(username);
         assertTrue(driver.getCurrentUrl().contains("/inventory"));
 
         List<WebElement> items = Inventorypage.getInventoryItems();
@@ -68,4 +68,11 @@ public class InventoryTest {
         assertEquals(items.size(), Inventorypage.ItemButton.size());
 
     }
+
+    // @Test
+    // @Tag("SortingFunctionality")
+    // public void testInventoryProductSorting(){
+
+    // }
+
 }
