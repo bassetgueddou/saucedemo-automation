@@ -7,6 +7,7 @@ import java.util.List;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -72,7 +73,44 @@ public class CartTest {
             assertEquals("Remove", button.getText());
             button.click();
         }
-    } 
+    }
+
+    @ParameterizedTest
+    @CsvFileSource(resources = "/usersWithNoProblemButtonCart.csv")
+    @Tag("Tester l'ajout dans la page cart")
+    @Tag("tester les button remove page cart")
+    @Tag("tester les buttons continue shipping et checkout")
+    public void TestCartAndDisplayProduct(String username){
+        loginPage.login(username);
+        assertTrue(driver.getCurrentUrl().contains("/inventory"));
+
+        List<WebElement>ItemsButton = Inventorypage.ItemButton;
+        int ButtonCartListSizeBeforeclick= ItemsButton.size();
+
+        for (WebElement itemButton: ItemsButton){
+            assertEquals("Add to cart", itemButton.getText());
+            itemButton.click();
+        }
+
+        Cartpage.Badge.click();
+        assertTrue(driver.getCurrentUrl().contains("/cart"));
+
+        int initialCartItemListSize = Cartpage.CartItems.size();
+        assertEquals(initialCartItemListSize, ButtonCartListSizeBeforeclick);
+        
+        Cartpage.RemoveButtonCart.click();
+        assertTrue(Cartpage.CartItems.size()==initialCartItemListSize-1);
+
+        Cartpage.ContinueButton.click();
+        assertTrue(driver.getCurrentUrl().contains("/inventory"));
+
+        Cartpage.Badge.click();
+        assertTrue(driver.getCurrentUrl().contains("/cart"));
+
+        Cartpage.CheckoutButton.click();
+        assertTrue(driver.getCurrentUrl().contains("/checkout-step-one"));
+
+    }
 
 
 }

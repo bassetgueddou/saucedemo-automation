@@ -19,4 +19,17 @@ public class CartPage {
 
     @FindBy(css = "span[data-test='shopping-cart-badge']")
     public WebElement Badge;
+
+    @FindBy(css = "div[data-test='inventory-item']")
+    public List<WebElement> CartItems;
+
+    @FindBy(name = "remove-sauce-labs-bike-light")
+    public WebElement RemoveButtonCart;
+
+    @FindBy(css = "button[data-test='continue-shopping']")
+    public WebElement ContinueButton;
+
+    @FindBy(name = "checkout")
+    public WebElement CheckoutButton;
+    
 }

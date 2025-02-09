@@ -1,0 +1,60 @@
+# Created at 2025-02-10T00:43:36.684
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.685
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Add Cart Button with no problem user button") declaration on [public void com.logwire.CartTest.AddCartButtonTest(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-10T00:43:36.688
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.689
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Add product to cart") declaration on [public void com.logwire.CartTest.AddCartButtonTest(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-10T00:43:36.699
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.700
+WARNING: Configuration error: invalid tag syntax in @Tag("Tester l'ajout dans la page cart") declaration on [public void com.logwire.CartTest.TestCartAndDisplayProduct()]. Tag will be ignored.
+
+# Created at 2025-02-10T00:43:36.702
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.703
+WARNING: Configuration error: invalid tag syntax in @Tag("tester les button remove page cart") declaration on [public void com.logwire.CartTest.TestCartAndDisplayProduct()]. Tag will be ignored.
+
+# Created at 2025-02-10T00:43:36.704
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.705
+WARNING: Configuration error: invalid tag syntax in @Tag("tester les buttons continue shipping et checkout") declaration on [public void com.logwire.CartTest.TestCartAndDisplayProduct()]. Tag will be ignored.
+
+# Created at 2025-02-10T00:43:36.768
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.769
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Add Cart Button with no problem user button") declaration on [public void com.logwire.CartTest.AddCartButtonTest(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-10T00:43:36.770
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.772
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Add product to cart") declaration on [public void com.logwire.CartTest.AddCartButtonTest(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-10T00:43:36.773
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.774
+WARNING: Configuration error: invalid tag syntax in @Tag("Tester l'ajout dans la page cart") declaration on [public void com.logwire.CartTest.TestCartAndDisplayProduct()]. Tag will be ignored.
+
+# Created at 2025-02-10T00:43:36.775
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.776
+WARNING: Configuration error: invalid tag syntax in @Tag("tester les button remove page cart") declaration on [public void com.logwire.CartTest.TestCartAndDisplayProduct()]. Tag will be ignored.
+
+# Created at 2025-02-10T00:43:36.777
+f�vr. 10, 2025 12:43:36 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T00:43:36.778
+WARNING: Configuration error: invalid tag syntax in @Tag("tester les buttons continue shipping et checkout") declaration on [public void com.logwire.CartTest.TestCartAndDisplayProduct()]. Tag will be ignored.
+
