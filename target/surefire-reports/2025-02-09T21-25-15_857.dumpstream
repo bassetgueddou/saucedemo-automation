@@ -1,0 +1,36 @@
+# Created at 2025-02-09T21:25:18.818
+f�vr. 09, 2025 9:25:18 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T21:25:18.819
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Inventory Product Display") declaration on [public void com.logwire.InventoryTest.testProductDisplayAndAddToCart(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T21:25:18.828
+f�vr. 09, 2025 9:25:18 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T21:25:18.829
+WARNING: Configuration error: invalid tag syntax in @Tag("Get Inventory TEST") declaration on [public void com.logwire.InventoryTest.GetInventoryList(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T21:25:18.850
+f�vr. 09, 2025 9:25:18 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T21:25:18.851
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri AZ and ZA") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingAZandZA()]. Tag will be ignored.
+
+# Created at 2025-02-09T21:25:18.940
+f�vr. 09, 2025 9:25:18 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T21:25:18.941
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Inventory Product Display") declaration on [public void com.logwire.InventoryTest.testProductDisplayAndAddToCart(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T21:25:18.947
+f�vr. 09, 2025 9:25:18 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T21:25:18.948
+WARNING: Configuration error: invalid tag syntax in @Tag("Get Inventory TEST") declaration on [public void com.logwire.InventoryTest.GetInventoryList(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T21:25:18.951
+f�vr. 09, 2025 9:25:18 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T21:25:18.953
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri AZ and ZA") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingAZandZA()]. Tag will be ignored.
+
