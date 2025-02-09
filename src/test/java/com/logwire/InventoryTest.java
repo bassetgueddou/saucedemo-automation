@@ -1,5 +1,6 @@
 package com.logwire;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.time.Duration;
@@ -43,7 +44,6 @@ public class InventoryTest {
     }
 
     @ParameterizedTest
-    @Disabled
     @CsvFileSource(resources = "/users.csv", numLinesToSkip = 1)
     @Tag("Get Inventory TEST")
     public void GetInventoryList(String username){
@@ -56,29 +56,16 @@ public class InventoryTest {
     @ParameterizedTest
     @CsvFileSource(resources = "/users.csv", numLinesToSkip= 1)
     @Tag("Test Inventory Product Display")
-    public void testProductDisplayAndAddToCart(String username){
-        loginPage.login(username);
+    public void testProductDisplayAndAddToCart(){
+        loginPage.login("standard_user");
         assertTrue(driver.getCurrentUrl().contains("/inventory"));
 
         List<WebElement> items = Inventorypage.getInventoryItems();
-        for(WebElement item: items){
+        assertEquals(items.size(), Inventorypage.ItemTitles.size());
+        assertEquals(items.size(), Inventorypage.ItemImgs.size());
+        assertEquals(items.size(), Inventorypage.ItemPrices.size());
+        assertEquals(items.size(), Inventorypage.ItemDescs.size());
+        assertEquals(items.size(), Inventorypage.ItemButton.size());
 
-            WebElement ItemTitle = item.findElement(By.className("inventory_item_name"));
-            assertTrue(ItemTitle.isDisplayed());
-
-            WebElement ItemImg = item.findElement(By.className("inventory_item_img"));
-            assertTrue(ItemImg.isDisplayed());
-            
-            WebElement ItemPrice = item.findElement(By.className("inventory_item_price"));
-            assertTrue(ItemPrice.isDisplayed());
-
-            WebElement ItemDesc = item.findElement(By.className("inventory_item_desc"));
-            assertTrue(ItemDesc.isDisplayed());
-
-            WebElement ItemButton = item.findElement(By.cssSelector("button.btn.btn_primary.btn_small.btn_inventory"));
-           
-            System.out.println("ici: " + item.findElement(By.cssSelector("button.btn.btn_primary.btn_small.btn_inventory")).getText());
-        
-        }
     }
 }
