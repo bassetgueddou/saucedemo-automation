@@ -1,0 +1,204 @@
+# Created at 2025-02-09T22:43:47.331
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.332
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri price high to low") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingPriceHL(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.342
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.343
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri price low to high") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingPriceLH(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.349
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.350
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri AZ") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingAZ(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.354
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.356
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri ZA") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingZA(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.362
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.363
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Inventory Product Display") declaration on [public void com.logwire.InventoryTest.testProductDisplayAndAddToCart(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.367
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.368
+WARNING: Configuration error: invalid tag syntax in @Tag("Get Inventory TEST") declaration on [public void com.logwire.InventoryTest.GetInventoryList(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.402
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.403
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri price high to low") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingPriceHL(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.405
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.406
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri price low to high") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingPriceLH(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.408
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.409
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri AZ") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingAZ(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.413
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.414
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri ZA") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingZA(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.416
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.417
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Inventory Product Display") declaration on [public void com.logwire.InventoryTest.testProductDisplayAndAddToCart(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.422
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.423
+WARNING: Configuration error: invalid tag syntax in @Tag("Get Inventory TEST") declaration on [public void com.logwire.InventoryTest.GetInventoryList(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:47.902
+f�vr. 09, 2025 10:43:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:47.903
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri price high to low") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingPriceHL(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:43:53.278
+f�vr. 09, 2025 10:43:53 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:43:53.279
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri price high to low") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingPriceHL(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:44:07.377
+f�vr. 09, 2025 10:44:07 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:44:07.378
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri price low to high") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingPriceLH(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:44:11.136
+f�vr. 09, 2025 10:44:11 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:44:11.137
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri price low to high") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingPriceLH(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:44:24.659
+f�vr. 09, 2025 10:44:24 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:44:24.660
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri AZ") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingAZ(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:44:28.188
+f�vr. 09, 2025 10:44:28 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:44:28.189
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri AZ") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingAZ(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:44:31.865
+f�vr. 09, 2025 10:44:31 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:44:31.866
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri AZ") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingAZ(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:44:40.508
+f�vr. 09, 2025 10:44:40 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:44:40.509
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri AZ") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingAZ(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:44:44.126
+f�vr. 09, 2025 10:44:44 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:44:44.127
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri AZ") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingAZ(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:44:48.275
+f�vr. 09, 2025 10:44:48 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:44:48.276
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri ZA") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingZA(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:44:51.970
+f�vr. 09, 2025 10:44:51 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:44:51.971
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri ZA") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingZA(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:05.558
+f�vr. 09, 2025 10:45:05 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:05.559
+WARNING: Configuration error: invalid tag syntax in @Tag("test Tri ZA") declaration on [public void com.logwire.InventoryTest.testInventoryProductSortingZA(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:09.107
+f�vr. 09, 2025 10:45:09 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:09.108
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Inventory Product Display") declaration on [public void com.logwire.InventoryTest.testProductDisplayAndAddToCart(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:12.663
+f�vr. 09, 2025 10:45:12 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:12.664
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Inventory Product Display") declaration on [public void com.logwire.InventoryTest.testProductDisplayAndAddToCart(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:16.066
+f�vr. 09, 2025 10:45:16 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:16.067
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Inventory Product Display") declaration on [public void com.logwire.InventoryTest.testProductDisplayAndAddToCart(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:24.665
+f�vr. 09, 2025 10:45:24 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:24.666
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Inventory Product Display") declaration on [public void com.logwire.InventoryTest.testProductDisplayAndAddToCart(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:27.913
+f�vr. 09, 2025 10:45:27 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:27.914
+WARNING: Configuration error: invalid tag syntax in @Tag("Test Inventory Product Display") declaration on [public void com.logwire.InventoryTest.testProductDisplayAndAddToCart(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:31.544
+f�vr. 09, 2025 10:45:31 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:31.544
+WARNING: Configuration error: invalid tag syntax in @Tag("Get Inventory TEST") declaration on [public void com.logwire.InventoryTest.GetInventoryList(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:34.825
+f�vr. 09, 2025 10:45:34 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:34.826
+WARNING: Configuration error: invalid tag syntax in @Tag("Get Inventory TEST") declaration on [public void com.logwire.InventoryTest.GetInventoryList(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:38.742
+f�vr. 09, 2025 10:45:38 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:38.743
+WARNING: Configuration error: invalid tag syntax in @Tag("Get Inventory TEST") declaration on [public void com.logwire.InventoryTest.GetInventoryList(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:47.498
+f�vr. 09, 2025 10:45:47 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:47.499
+WARNING: Configuration error: invalid tag syntax in @Tag("Get Inventory TEST") declaration on [public void com.logwire.InventoryTest.GetInventoryList(java.lang.String)]. Tag will be ignored.
+
+# Created at 2025-02-09T22:45:51.261
+f�vr. 09, 2025 10:45:51 PM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-09T22:45:51.262
+WARNING: Configuration error: invalid tag syntax in @Tag("Get Inventory TEST") declaration on [public void com.logwire.InventoryTest.GetInventoryList(java.lang.String)]. Tag will be ignored.
+

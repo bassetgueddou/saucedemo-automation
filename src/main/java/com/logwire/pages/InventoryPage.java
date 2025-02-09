@@ -29,6 +29,7 @@ public class InventoryPage {
     public List<WebElement> ItemDescs;
 
     @FindBy(css = "button.btn.btn_primary.btn_small.btn_inventory")
+
     public List<WebElement> ItemButton;
 
     @FindBy(css = "div[data-test='inventory-item-name']")
