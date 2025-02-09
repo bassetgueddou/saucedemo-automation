@@ -14,10 +14,10 @@ public class InventoryPage {
     }
 
     @FindBy(css = ".inventory_item")
-    List<WebElement> InventoryList;
+    List<WebElement> InventoryItems;
 
-    public List<WebElement> getInventoryList(){
-        return this.InventoryList;
+    public List<WebElement> getInventoryItems(){
+        return this.InventoryItems;
     }
 
 

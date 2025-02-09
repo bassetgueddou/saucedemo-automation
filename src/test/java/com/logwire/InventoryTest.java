@@ -7,6 +7,7 @@ import java.util.List;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -42,12 +43,42 @@ public class InventoryTest {
     }
 
     @ParameterizedTest
+    @Disabled
     @CsvFileSource(resources = "/users.csv", numLinesToSkip = 1)
     @Tag("Get Inventory TEST")
     public void GetInventoryList(String username){
         loginPage.login(username);
         assertTrue(driver.getCurrentUrl().contains("/inventory"));
 
-        assertTrue(Inventorypage.getInventoryList().size()>0);
+        assertTrue(Inventorypage.getInventoryItems().size()>=6);
+    }
+
+    @ParameterizedTest
+    @CsvFileSource(resources = "/users.csv", numLinesToSkip= 1)
+    @Tag("Test Inventory Product Display")
+    public void testProductDisplayAndAddToCart(String username){
+        loginPage.login(username);
+        assertTrue(driver.getCurrentUrl().contains("/inventory"));
+
+        List<WebElement> items = Inventorypage.getInventoryItems();
+        for(WebElement item: items){
+
+            WebElement ItemTitle = item.findElement(By.className("inventory_item_name"));
+            assertTrue(ItemTitle.isDisplayed());
+
+            WebElement ItemImg = item.findElement(By.className("inventory_item_img"));
+            assertTrue(ItemImg.isDisplayed());
+            
+            WebElement ItemPrice = item.findElement(By.className("inventory_item_price"));
+            assertTrue(ItemPrice.isDisplayed());
+
+            WebElement ItemDesc = item.findElement(By.className("inventory_item_desc"));
+            assertTrue(ItemDesc.isDisplayed());
+
+            WebElement ItemButton = item.findElement(By.cssSelector("button.btn.btn_primary.btn_small.btn_inventory"));
+           
+            System.out.println("ici: " + item.findElement(By.cssSelector("button.btn.btn_primary.btn_small.btn_inventory")).getText());
+        
+        }
     }
 }

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.logwire.InventoryTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.427 s - in com.logwire.InventoryTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 34.876 s - in com.logwire.InventoryTest
