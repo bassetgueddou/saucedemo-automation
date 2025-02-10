@@ -1,0 +1,24 @@
+# Created at 2025-02-10T01:39:49.176
+f�vr. 10, 2025 1:39:49 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T01:39:49.177
+WARNING: Configuration error: invalid tag syntax in @Tag("Tester le checkout") declaration on [public void com.logwire.CheckoutTest.TestCheckoutAndOrder()]. Tag will be ignored.
+
+# Created at 2025-02-10T01:39:49.178
+f�vr. 10, 2025 1:39:49 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T01:39:49.179
+WARNING: Configuration error: invalid tag syntax in @Tag("Tester coherence du prix entre ce qui a �t� selectionn� et le prix affich�") declaration on [public void com.logwire.CheckoutTest.TestCheckoutAndOrder()]. Tag will be ignored.
+
+# Created at 2025-02-10T01:39:49.241
+f�vr. 10, 2025 1:39:49 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T01:39:49.242
+WARNING: Configuration error: invalid tag syntax in @Tag("Tester le checkout") declaration on [public void com.logwire.CheckoutTest.TestCheckoutAndOrder()]. Tag will be ignored.
+
+# Created at 2025-02-10T01:39:49.243
+f�vr. 10, 2025 1:39:49 AM org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created at 2025-02-10T01:39:49.244
+WARNING: Configuration error: invalid tag syntax in @Tag("Tester coherence du prix entre ce qui a �t� selectionn� et le prix affich�") declaration on [public void com.logwire.CheckoutTest.TestCheckoutAndOrder()]. Tag will be ignored.
+
